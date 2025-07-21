@@ -2,6 +2,10 @@
 
 Este repositório contém os diagramas e roteiros desenvolvidos durante as diferentes fases do projeto, organizados para facilitar o entendimento e a documentação dos modelos UML e outros artefatos.
 
+- <a href='https://github.com/RafaBricia/diagramas-UML'>Link do repositório</a>
+- <a href='https://docs.google.com/document/d/1JjykTTRIHDeu-AFM_2steHJHJFrl7uu31GH0aa0d0Q4/edit?tab=t.0#heading=h.6rhzl4httx7r'>Link do documento fase 1</a>
+- <a href='https://docs.google.com/document/d/1s2B4P-pfVWnZSKARpnz-BWcJoRzsWY7IblXpK9uIsAE/edit?tab=t.0#heading=h.6rhzl4httx7r'>Link do documento fase 2</a>
+
 ---
 
 ## Estrutura do Repositório
@@ -11,6 +15,9 @@ Pasta principal contendo as atividades relacionadas ao projeto.
 
 ### FASE1
 Contém os diagramas e roteiros referentes à primeira fase do projeto.
+
+- <a href='https://docs.google.com/document/d/1YtV6MRLIJhfSWkv6cyQxK5KoDz20O7vMZstDvg6GJ6w/edit?tab=t.0#heading=h.ug202kq7d4tt'>Link do documento</a>
+
 
 - **Diagrama_Atividades**  
   Roteiro e documentação do Diagrama de Atividades.  
@@ -35,6 +42,9 @@ Contém os diagramas e roteiros referentes à primeira fase do projeto.
 
 ### FASE2
 Pasta reservada para os arquivos e atividades da segunda fase do projeto (a ser preenchida).
+
+- <a href='https://docs.google.com/document/d/180VsQ5tG0vIehr7Q8gPnbiZI34hLHC0Aoqu5X1-8qb4/edit?tab=t.0#heading=h.ug202kq7d4tt'>Link do documento</a>
+
 
 ---
 
